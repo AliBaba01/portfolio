@@ -2,7 +2,7 @@ html
 body
 hrea
 agoakdofgh
-<h1>Assalomdfoajdf</h1>
+<h1>Salom Aleykum</h1>
 ohja
 dfhoajdf
 hodfh
